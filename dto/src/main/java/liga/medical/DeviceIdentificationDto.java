@@ -15,4 +15,6 @@ public class DeviceIdentificationDto {
 
     private Long ownerId;
 
+    private MedicalData medicalData;
+
 }
